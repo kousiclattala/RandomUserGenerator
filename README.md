@@ -7,7 +7,7 @@ In this project a random user is generated when the page loads or a user clicks 
 ## Topics Learned/Used
 
 - Angular `HttpModule`
-- Open-Source API for user data, click [this](https://randomuser.me/api) for API.
+- We use Open-Source API for user data, click [this](https://randomuser.me/api) for API.
 
 ## Project Images
 
